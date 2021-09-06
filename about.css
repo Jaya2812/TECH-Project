@@ -1,0 +1,161 @@
+/**ABOUT**/
+
+#about{
+	text-align: center;
+	border:1px black solid;
+	background-color: #1e2761;
+}
+#h1_1{
+	text-align: center;
+	background-color: #1e2761;
+}
+#h2_s{
+	text-align: center;
+	background-color: #1e2761;
+}
+
+
+/**SKILLS**/
+
+#skill{
+	text-align: center;
+	font-color: white;
+
+}
+
+#h2_s{
+	text-align: center;
+	
+}
+
+
+.html{
+	 width: 30px;
+     height: 20px;
+  	 background: #1e2761;
+  	 transition: width 2s;
+  	 border: 1px solid black;
+}
+.html:hover{
+	width: 400px;
+}
+
+.css{
+	 width: 30px;
+     height: 20px;
+  	 background: #1e2761;
+  	 transition: width 2s;
+  	 border: 1px solid black;
+}
+.css:hover{
+	width: 350px;
+}
+
+.js{
+	 width: 30px;
+     height: 20px;
+  	 background: #1e2761;
+  	 transition: width 2s;
+  	 border: 1px solid black;
+}
+.js:hover{
+	width: 200px;
+}
+
+.ps{
+	 width: 30px;
+     height: 20px;
+  	 background: #1e2761;
+  	 transition: width 2s;
+  	 border: 1px solid black;
+}
+.ps:hover{
+	width: 300px;
+}
+
+.xd{
+	 width: 30px;
+     height: 20px;
+  	 background: #1e2761;
+  	 transition: width 2s;
+  	 border: 1px solid black;
+}
+.xd:hover{
+	width: 350px;
+}
+
+
+#test{
+	 width: 500px;
+     height: 22px;
+  	 background: dimgrey;
+  	 transition: width 2s;
+  	 border: 1px solid black;
+}
+
+.A{
+	 width: 400px;
+     height: 20px;
+  	 background: grey;
+  	 transition: width 2s;
+  	 
+ }
+
+.B{
+	 width: 350px;
+     height: 20px;
+  	 background: grey;
+  	 transition: width 2s;
+  	   	 
+}
+
+.C{
+	 width: 200px;
+     height: 20px;
+  	 background: grey;
+  	 transition: width 2s;
+  	 
+ }
+
+ .D{
+	 width: 300px;
+     height: 20px;
+  	 background: grey;
+  	 transition: width 2s;
+  	 
+ }
+
+ .graph{
+ 	 border: 1px solid black;
+ 	 padding-right:30px ;
+     padding-left:30px ;
+     padding-top:20px ;
+     padding-bottom:50px ;
+     margin-left:30px ;
+     margin-right: 30px;
+ }
+ 
+
+ /**WORK**/
+#work{
+	border:1px black solid;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  background-color: lightgrey;
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+
+.bg:hover{
+    background-color: rgb(180, 91, 123);
+   } 
